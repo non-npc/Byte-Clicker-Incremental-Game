@@ -53,7 +53,7 @@ This project demonstrates several key concepts for hybrid Python-JavaScript appl
 1. Clone this repository:
 ```bash
 git clone https://github.com/non-npc/Byte-Clicker-Incremental-Game.git
-cd byte-clicker
+cd Byte-Clicker-Incremental-Game
 ```
 
 2. Create a virtual environment (recommended):

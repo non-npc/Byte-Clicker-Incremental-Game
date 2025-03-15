@@ -42,41 +42,6 @@ This project demonstrates several key concepts for hybrid Python-JavaScript appl
 - Modern, responsive UI
 - Progress-based generator unlocking system
 
-## Requirements
-
-- Python 3.8 or higher
-- PyQt6
-- PyQtWebEngine
-
-## Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/non-npc/Byte-Clicker-Incremental-Game.git
-cd Byte-Clicker-Incremental-Game
-```
-
-2. Create a virtual environment (recommended):
-```bash
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-## Running the Game
-
-To start the game, run:
-```bash
-python main.py
-```
-
 ## How to Play
 
 1. Click the green circle to generate bytes
@@ -197,6 +162,41 @@ bridge.exit_app();
 - Data format: JSON for state transfer
 - Error handling: Try-catch blocks with error messages
 - Thread safety: All methods are synchronous and thread-safe
+
+## Requirements
+
+- Python 3.8 or higher
+- PyQt6
+- PyQtWebEngine
+
+## Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/non-npc/Byte-Clicker-Incremental-Game.git
+cd Byte-Clicker-Incremental-Game
+```
+
+2. Create a virtual environment (recommended):
+```bash
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Running the Game
+
+To start the game, run:
+```bash
+python main.py
+```
 
 ## License
 

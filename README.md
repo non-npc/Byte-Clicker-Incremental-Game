@@ -200,4 +200,4 @@ python main.py
 
 ## License
 
-CC0 License - Feel free to modify and distribute this code as you like! 
+[CC0 License](LICENSE) - Feel free to modify and distribute this code as you like! 

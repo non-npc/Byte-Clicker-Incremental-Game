@@ -177,7 +177,7 @@ git clone https://github.com/non-npc/Byte-Clicker-Incremental-Game.git
 cd Byte-Clicker-Incremental-Game
 ```
 
-2. Create a virtual environment (recommended):
+2. Create a virtual environment:
 ```bash
 python -m venv venv
 # On Windows:
